@@ -164,7 +164,7 @@ Memberikan hasil terbaik untuk dataset besar dengan pola kompleks, karena memanf
 
 3. **Distribusi Rating per User (User Activity Distribution)** 
 
-  ![ alt text for screen readers](avg_movie_rating.png "Text to show on mouseover")
+  ![ alt text for screen readers]([avg_movie_rating.png](https://github.com/RamadhaRanuh/ML_Terapan_2/blob/master/avg_movie_rating.png) "Text to show on mouseover")
 
    - *Tujuan:* Mengetahui sebaran jumlah film yang dirating oleh setiap user, misalnya UserID1 memberikan rating kepada 10 film, sedangkan UserID23 hanya memberikan rating pada 4 film.
    - *Insight:*  Mayoritas user hanya memberikan rating pada 1-10 film. Namun, terdapat beberapa user yang sangat aktif, memberikan rating kepada lebih dari 50 film. Aktivitas user yang tinggi ini dapat menjadi sumber data yang penting untuk memahami preferensi mereka dan mengoptimalkan sistem rekomendasi. 
