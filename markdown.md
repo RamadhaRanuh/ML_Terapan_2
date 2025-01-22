@@ -633,11 +633,11 @@ Root Mean Squared Error (RMSE)
 
 Hasil Evaluasi:
 
-RMSE: 0.3278482636400107
-RMSE: 0.3604249317785618
-RMSE: 0.36217149842210783
-RMSE: 0.3642612675972271
-RMSE: 0.3647826863204732
+- RMSE: 0.3278482636400107
+- RMSE: 0.3604249317785618
+- RMSE: 0.36217149842210783
+- RMSE: 0.3642612675972271
+- RMSE: 0.3647826863204732
 
 Hasil ini menunjukkan nilai RMSE untuk setiap fold dalam KFold cross-validation. KFold cross-validation membagi data menjadi beberapa subset (folds) dan melatih model pada beberapa subset tersebut, kemudian menguji model pada subset yang tersisa. Proses ini diulang beberapa kali (dalam hal ini, 5 kali) untuk mendapatkan gambaran yang lebih baik tentang performa model secara keseluruhan.
 
