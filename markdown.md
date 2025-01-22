@@ -155,7 +155,7 @@ Memberikan hasil terbaik untuk dataset besar dengan pola kompleks, karena memanf
    - *Tujuan:* Menganalisis genre mana yang paling banyak ditonton oleh user. 
    - *Insight:* Genre ter-favorit nomor pertama adalah Drama, dilanjutkan oleh komedi di nomor kedua dan thriller di nomor ketiga serta action dan romance di nomor keempat dan kelima.   
 
-3. **Distribusti Rating**
+2. **Distribusti Rating**
 
 ![movie_rating](https://github.com/user-attachments/assets/74cf2926-77ef-4330-836e-b424d1fc90a8)
 
