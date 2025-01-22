@@ -478,19 +478,27 @@ Matriks rating yang tereduksi digunakan untuk memprediksi nilai rating yang hila
 
 **b. Contoh Output**  
 - **Contoh Top-N Recommendations:**  
-  Untuk pengguna *user_id: 28*:
-  Top 5 Highest Rated Movies:
-  Dune (1984) - Rating: 5.0
-  Dune (2000) - Rating: 5.0
-  Avatar (2009) - Rating: 5.0
-  Once (2006) - Rating: 5.0
-  Three Burials of Melquiades Estrada, The (2006) - Rating: 4.5
-  Recommended Movies:
-  Carlito's Way (1993)
-  Platoon (1986)
-  Chinatown (1974)
-  Three Kings (1999)
-  Mulholland Drive (2001)
+Movie Recommendations for User: *user_id: 28*
+
+---
+
+**Top 5 Highest Rated Movies:**
+1. **Dune (1984)** - Rating: ⭐️ 5.0  
+2. **Dune (2000)** - Rating: ⭐️ 5.0  
+3. **Avatar (2009)** - Rating: ⭐️ 5.0  
+4. **Once (2006)** - Rating: ⭐️ 5.0  
+5. **The Three Burials of Melquiades Estrada (2006)** - Rating: ⭐️ 4.5  
+
+---
+
+**Recommended Movies:**
+1. **Carlito's Way (1993)**  
+2. **Platoon (1986)**  
+3. **Chinatown (1974)**  
+4. **Three Kings (1999)**  
+5. **Mulholland Drive (2001)**  
+
+---
 
 **c. Kelebihan dan Kekurangan**  
 - **Kelebihan:**  
