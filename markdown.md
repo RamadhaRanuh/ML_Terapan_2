@@ -150,16 +150,22 @@ Memberikan hasil terbaik untuk dataset besar dengan pola kompleks, karena memanf
 
 1. **Top 10 Most Watched Genre**  
 
-   ![ alt text for screen readers](avg_movie_rating.png "Text to show on mouseover")
+   ![ alt text for screen readers](movie_genre.png "Text to show on mouseover")
 
    - *Tujuan:* Menganalisis genre mana yang paling banyak ditonton oleh user. 
    - *Insight:* Genre ter-favorit nomor pertama adalah Drama, dilanjutkan oleh komedi di nomor kedua dan thriller di nomor ketiga serta action dan romance di nomor keempat dan kelima.   
 
 2. **Distribusti Rating**  
+
+  ![ alt text for screen readers](movie_rating.png "Text to show on mouseover")
+
    - *Tujuan:* Menganalisis rata-rata jumlah rating yang diberikan oleh user kepada suatu film.  
    - *Insight:* Sebagian besar user memberikan rata-rata rating di kisaran 3-4 untuk film yang mereka tonton. Namun, terdapat beberapa film yang memiliki nilai rating sangat rendah (di bawah 2) atau sangat tinggi (di atas 4.5), yang menunjukkan keberagaman selera user terhadap film.
 
-3. **Distribusi Rating per User (User Activity Distribution)**  
+3. **Distribusi Rating per User (User Activity Distribution)** 
+
+  ![ alt text for screen readers](avg_movie_rating.png "Text to show on mouseover")
+
    - *Tujuan:* Mengetahui sebaran jumlah film yang dirating oleh setiap user, misalnya UserID1 memberikan rating kepada 10 film, sedangkan UserID23 hanya memberikan rating pada 4 film.
    - *Insight:*  Mayoritas user hanya memberikan rating pada 1-10 film. Namun, terdapat beberapa user yang sangat aktif, memberikan rating kepada lebih dari 50 film. Aktivitas user yang tinggi ini dapat menjadi sumber data yang penting untuk memahami preferensi mereka dan mengoptimalkan sistem rekomendasi. 
 
