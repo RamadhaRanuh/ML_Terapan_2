@@ -1,4 +1,4 @@
-![avg_movie_rating](https://github.com/user-attachments/assets/95abecce-6f3a-48c1-9181-4c6c402517c7)# Laporan Proyek Machine Learning - I Gusti Bagus Ramadha Saverian Ranuh
+# Laporan Proyek Machine Learning - I Gusti Bagus Ramadha Saverian Ranuh
 
 ## Project Overview
 
