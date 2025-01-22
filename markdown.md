@@ -150,7 +150,7 @@ Memberikan hasil terbaik untuk dataset besar dengan pola kompleks, karena memanf
 
 1. **Top 10 Most Watched Genre**  
 
-
+   ![ alt text for screen readers](avg_movie_rating.png "Text to show on mouseover")
 
    - *Tujuan:* Menganalisis genre mana yang paling banyak ditonton oleh user. 
    - *Insight:* Genre ter-favorit nomor pertama adalah Drama, dilanjutkan oleh komedi di nomor kedua dan thriller di nomor ketiga serta action dan romance di nomor keempat dan kelima.   
@@ -497,8 +497,14 @@ Movie Recommendations for User: *user_id: 28*
 3. **Chinatown (1974)**  
 4. **Three Kings (1999)**  
 5. **Mulholland Drive (2001)**  
+6. **Ocean's Eleven (2001)**
+7. **Adaptation (2002)**
+8. **Illusionist, The (2006)**
+9. **Pan's Labyrinth (Laberinto del fauno, El) (2006)**
+10. **Hurt Locker, The (2008)**
 
 ---
+
 
 **c. Kelebihan dan Kekurangan**  
 - **Kelebihan:**  
